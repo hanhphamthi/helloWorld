@@ -5,3 +5,5 @@ Changing from remote - pull
 Changing from remote - pull --rebase
 1st
 2nd
+change
+changing
